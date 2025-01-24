@@ -15,6 +15,12 @@ payload:
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,oklink.com
   - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,ouyich.biz
+  - DOMAIN-SUFFIX,ouyich.show
+  - DOMAIN-SUFFIX,cnouyi.pizza
+  - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-KEYWORD,cnouyi
+  - DOMAIN-KEYWORD,ouyich
 #  - DOMAIN-KEYWORD,nicegram
 # IP-CIDR  
 #  - IP-CIDR,109.239.140.0/24
